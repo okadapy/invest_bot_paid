@@ -102,7 +102,7 @@ enum State {
     },
 }
 
-const TOKEN: &str = "6884951227:AAFG6g8_JMwwXq_OAipIPYC9beAolVsW0rc";
+const TOKEN: &str = "";
 
 #[tokio::main]
 async fn main() {
